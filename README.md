@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Quinn!
-- 👀 I’m interested in game devolpent/modding
+- 👀 I’m interested in game devolpment/modding
 - 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on not much right now, im doing my own thing
-- 📫 How to reach me 
+- 💞️ I’m looking for an iternship
+- 📫 How to reach me DM me on discord "Quinn Montgomery#1705"
 
 <!---
 Quinnbot/Quinnbot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
